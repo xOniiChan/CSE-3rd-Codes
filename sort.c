@@ -1,4 +1,4 @@
-//String buble sort
+//String bubble sort
 #include <stdio.h>
 
 void sort(int a[],int num) {
